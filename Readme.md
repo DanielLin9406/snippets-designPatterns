@@ -1,4 +1,4 @@
-# Code Snippets and Some Design Pattern
+# Code Snippets and Design Patterns
 
 A bunch of collections of code snippets, design-pattern and tricks for my daily usage.
 
